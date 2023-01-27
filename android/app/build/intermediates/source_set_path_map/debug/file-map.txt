@@ -1,0 +1,35 @@
+com.deo.app-recyclerview-1.1.0-0 /Users/sariqanwar/.gradle/caches/transforms-3/07acedd2fde213bd957a84944dede18f/transformed/recyclerview-1.1.0/res
+com.deo.app-core-1.7.0-1 /Users/sariqanwar/.gradle/caches/transforms-3/0d8d81f6b572192987f2f410f9927e3a/transformed/core-1.7.0/res
+com.deo.app-material-1.1.0-2 /Users/sariqanwar/.gradle/caches/transforms-3/2643e6905ef1b376f802cb26a36d3449/transformed/material-1.1.0/res
+com.deo.app-jetified-viewpager2-1.0.0-3 /Users/sariqanwar/.gradle/caches/transforms-3/34df4b81bce160c31107e06575babcf6/transformed/jetified-viewpager2-1.0.0/res
+com.deo.app-jetified-emoji2-1.0.0-4 /Users/sariqanwar/.gradle/caches/transforms-3/35e83281cd51be6b92caa287fcbb4f38/transformed/jetified-emoji2-1.0.0/res
+com.deo.app-jetified-drawee-2.6.0-5 /Users/sariqanwar/.gradle/caches/transforms-3/399c94769c26fcd426a19cc44d8b3dc5/transformed/jetified-drawee-2.6.0/res
+com.deo.app-cardview-1.0.0-6 /Users/sariqanwar/.gradle/caches/transforms-3/440af3b3541797fc2127022a57bd29f8/transformed/cardview-1.0.0/res
+com.deo.app-jetified-flipper-0.125.0-7 /Users/sariqanwar/.gradle/caches/transforms-3/4b33b5e0a3553e4713dfaf342b84d803/transformed/jetified-flipper-0.125.0/res
+com.deo.app-jetified-startup-runtime-1.0.0-8 /Users/sariqanwar/.gradle/caches/transforms-3/611fcdf7a3a4d753f6a0be2c54cfd628/transformed/jetified-startup-runtime-1.0.0/res
+com.deo.app-jetified-autofill-1.1.0-9 /Users/sariqanwar/.gradle/caches/transforms-3/6660442dac6f5d93c62aef014c65d364/transformed/jetified-autofill-1.1.0/res
+com.deo.app-jetified-annotation-experimental-1.1.0-10 /Users/sariqanwar/.gradle/caches/transforms-3/73fd9b40887e319a9159477b4caf4b21/transformed/jetified-annotation-experimental-1.1.0/res
+com.deo.app-lifecycle-viewmodel-2.3.1-11 /Users/sariqanwar/.gradle/caches/transforms-3/77c553b2e843fa6189589e1cd693774e/transformed/lifecycle-viewmodel-2.3.1/res
+com.deo.app-jetified-appcompat-resources-1.4.1-12 /Users/sariqanwar/.gradle/caches/transforms-3/79ee68175916317b77e82d8417685a1d/transformed/jetified-appcompat-resources-1.4.1/res
+com.deo.app-jetified-savedstate-1.1.0-13 /Users/sariqanwar/.gradle/caches/transforms-3/8fb34dc1b2e05b2791e0a53cbaa5464e/transformed/jetified-savedstate-1.1.0/res
+com.deo.app-jetified-react-android-0.71.0-debug-14 /Users/sariqanwar/.gradle/caches/transforms-3/8fe1c61ebc9d6682068addb04acccd7c/transformed/jetified-react-android-0.71.0-debug/res
+com.deo.app-jetified-core-ktx-1.6.0-15 /Users/sariqanwar/.gradle/caches/transforms-3/a6d863f6306a1607fa83d3704e72f9c7/transformed/jetified-core-ktx-1.6.0/res
+com.deo.app-coordinatorlayout-1.1.0-16 /Users/sariqanwar/.gradle/caches/transforms-3/aebc66b66796823ff8870f2e96466791/transformed/coordinatorlayout-1.1.0/res
+com.deo.app-appcompat-1.4.1-17 /Users/sariqanwar/.gradle/caches/transforms-3/b8880fdded47cec5985d61f897e9986d/transformed/appcompat-1.4.1/res
+com.deo.app-transition-1.2.0-18 /Users/sariqanwar/.gradle/caches/transforms-3/bc062d256988ad9177a648ebe2691a79/transformed/transition-1.2.0/res
+com.deo.app-jetified-emoji2-views-helper-1.0.0-19 /Users/sariqanwar/.gradle/caches/transforms-3/c70479551c0444e9bfdbf356e610888b/transformed/jetified-emoji2-views-helper-1.0.0/res
+com.deo.app-fragment-1.3.6-20 /Users/sariqanwar/.gradle/caches/transforms-3/cfaca6683c157a246b7082fdd393072d/transformed/fragment-1.3.6/res
+com.deo.app-jetified-tracing-1.1.0-21 /Users/sariqanwar/.gradle/caches/transforms-3/d591b8190e28349bf0141335eb8a151d/transformed/jetified-tracing-1.1.0/res
+com.deo.app-lifecycle-runtime-2.4.0-22 /Users/sariqanwar/.gradle/caches/transforms-3/db79957e5d8eefef48c6e91a48008f93/transformed/lifecycle-runtime-2.4.0/res
+com.deo.app-jetified-lifecycle-process-2.4.0-23 /Users/sariqanwar/.gradle/caches/transforms-3/dc48d2425887d4c59723398591658943/transformed/jetified-lifecycle-process-2.4.0/res
+com.deo.app-pngs-24 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/build/generated/res/pngs/debug
+com.deo.app-resValues-25 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/build/generated/res/resValues/debug
+com.deo.app-rs-26 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/build/generated/res/rs/debug
+com.deo.app-mergeDebugResources-27 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.deo.app-mergeDebugResources-28 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.deo.app-merged_res-29 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/build/intermediates/merged_res/debug
+com.deo.app-debug-30 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/src/debug/res
+com.deo.app-main-31 /Users/sariqanwar/Desktop/untitled folder/deo/android/app/src/main/res
+com.deo.app-packaged_res-32 /Users/sariqanwar/Desktop/untitled folder/deo/node_modules/react-native-gesture-handler/android/build/intermediates/packaged_res/debug
+com.deo.app-packaged_res-33 /Users/sariqanwar/Desktop/untitled folder/deo/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.deo.app-packaged_res-34 /Users/sariqanwar/Desktop/untitled folder/deo/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug

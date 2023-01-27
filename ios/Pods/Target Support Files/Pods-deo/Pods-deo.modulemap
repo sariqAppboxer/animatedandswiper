@@ -1,0 +1,6 @@
+module Pods_deo {
+  umbrella header "Pods-deo-umbrella.h"
+
+  export *
+  module * { export * }
+}

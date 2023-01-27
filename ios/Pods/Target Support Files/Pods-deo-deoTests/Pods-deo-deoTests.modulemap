@@ -1,0 +1,6 @@
+module Pods_deo_deoTests {
+  umbrella header "Pods-deo-deoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
